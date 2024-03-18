@@ -442,9 +442,9 @@
 \def\@bibliofile{\jobname\@bibliofileext}
 
 % Set some names used as chapter headings.
-\renewcommand\contentsname{\normalfont\normalsize Table of Contents}
-\renewcommand\listtablename{\normalfont\normalsize List of Tables}
-\renewcommand\listfigurename{\normalfont\normalsize List of Figures}
+\renewcommand{\contentsname}{Table of Contents}
+\renewcommand{\listtablename}{List of Tables}
+\renewcommand{\listfigurename}{List of Figures}
 \renewcommand\refname{Literature Cited}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
